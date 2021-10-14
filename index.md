@@ -40,9 +40,15 @@
   <h3><b>Name:</b></h3> <p>Cody Sadler</p>
   <h3><b>Student Number:</b></h3> <p>s3923221</p>
   <h3><b>Background:</b></h3>
+    <p> I am nineteen years of age i am from the rural of wangaratta in victoria i have lived here all my life im a pretty chill guy! </p>
   <h3><b>Hobbies:</b></h3>
+    <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and games is what i'm most likely doing throughout the day.</p>
   <h3><b>IT Interests:</b></h3>
+    <p>My interest in IT started relatively early in my life when I first started using a computer.
+       Pretty much I was hooked on anything technology from the hardware of PCs and old gaming consoles used to the software they were using and the code that made the apps,        games and websites I use daily.
+    </p>
   <h3><b>IT Experience:</b></h3>
+    <p>i completed a Cert III in screen and media my view changed and saw how i could make it a career. During that course one of  the assignments was web development. What I found was pretty fun diving further than just HTML and CSS. I looked a little into Java just to have some fun</p>
 <br>
 
   <h3><b>Team Profile</b></h3>
