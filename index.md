@@ -40,9 +40,16 @@
   <h3><b>Name:</b></h3> <p>Cody Sadler</p>
   <h3><b>Student Number:</b></h3> <p>s3923221</p>
   <h3><b>Background:</b></h3>
+    <p>My name is cody sadler i am 19 years of age i live in a rural town in victoria about 3 hours away from melbourne. i am a chill guy who enjoys a nice cold drink while listening to Guts Theme.</p>
   <h3><b>Hobbies:</b></h3>
+    <p>My hobbies include; Technology repairs and teardowns, exploring all aspects of filmmaking and the production of a film or television show, consuming film, shows, anime and games is what i'm most likely doing throughout the day.
+</p>
   <h3><b>IT Interests:</b></h3>
+    <p>My interest in IT started relatively early in my life when I first started using a computer.
+         Pretty much I was hooked on anything technology from the hardware of PCs and old gaming consoles used to the software they were using and the code that made the apps, games and websites I use daily.
+</p>
   <h3><b>IT Experience:</b></h3>
+    <p>i completed a Cert III in screen and media my view changed and saw how i could make it a career. During that course one of  the assignments was web development. What I found was pretty fun diving further than just HTML and CSS. I looked a little into Java just to have some fun.</p>
 <br>
 
   <h3><b>Team Profile</b></h3>
@@ -79,6 +86,16 @@
     <li>Neuroticism: 71%</li>
   </ul>
   <p>The results of this test am a highly creative person, who can think of subject in a abtract manner (Openness). I am a peacemaker, and will try to put the needs and views of others before my own (Conscientiousness). However, I am highly critical and I am highly susceptible to negative emotions (Neuroticism).</p>
+    <b>Cody Sadler</b>
+   <h3>Personality test results</h3>
+    <h3>Myer-Briggs Test</h3>
+    <p><b>Type:</b> Assertive Virtuoso, <b>Code:</b> ISTP-A, <b>Role:</b> Explorer, <b>Strategy:</b> 	Confident Individualism</p>
+    <p> i am Creative and Practical, relaxed tending to live in the moment then thinking about the future. However Virtuosos can be insensitive in some situations using logic with little emotion even when meeting new people. Virtuosos can be easily bored and tend to dislike commitment, once something is learned and understood they will try to move on to something more interesting. Virtuosos also tend to keep to themselves instead of talking to others; they would rather prefer silence, which could prove very troublesome when placed into a team.<p>
+    <h3>Personality Max Learning Styles</h3>
+    <p>Primary Learning Style: Primarily Visual, Then Auditory, then Tactile</p>
+    <h3>Big Five Personality Test</h3>
+    <p><b>Most common traits:</b> Openness, Conscientiousness, Neuroticism to new experience</p>
+    <br>
 
 <br>
   <h1><b>Ideal Jobs</b></h1>
@@ -93,6 +110,20 @@
   <h3><a href="https://au.linkedin.com/jobs/view/gameplay-programmer-at-gameloft-2746329876?refId=gsMP5X4f22cgwEKk5VUh2A%3D%3D&trackingId=mM9zF%2FDBzc3aGyAXy5We9Q%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card">Gameplay Programmer</a></h3><br>
     <p>A Gameplay Programmer needs to have a good understanding of programming languages (C++, C#, GML, Python), as well as having a good understanding of common game technologies, processes and software development, such as Rendering pipelines (renders a 3D scene for a 2d screen), Physics, AI, and Online multiplayer.  They also need the ability to work independently and problem-solve issues using documentation and existing processes and codebases, rapidly prototype and produce the final code.</p>
 <br>
+    <h3>Cody Sadler</h3>
+    <h3>C++ Software Developer</h3>
+    <p>
+In this job position at Blackmagic Design you're making software and firmware for video and photo production that are used on hollywood movies,tv shows and music videos. You will be using Qt to code with C++ to build software and firmware from the ground up and you will be involved in most aspects of the softwares life cycle from conception to launch.
+I found this job would be perfect for me to work at as it focuses on my 2 favourite passions; Filmmaking and IT. It's just perfect, I have also heard of Blackmagic as a brand for cinema quality equipment. It's a company that has a good reputation
+</p>
+    <h4>Skills required for job position:</h4>
+    <ul>
+      <li>Skilled with programming knowledge and implementing solutions using C++</li>
+      <li>Have experience developing on Mac OS or Linux</li>
+      <li>Know how to use the software Qt using modern C++</li>
+      <li>Prior experience with complex data structures and have used multi process or threaded applications</li>
+      <li>Knowledge of Python is also a added bonus</li>  
+    </ul>
 
   <h1><b>Tools</b></h1>
   <b>Group Website:</b> <a href="https://rmit-group-a2s1-hypervisors.github.io/TheHypervisors/">The Hypervisors</a><br>
