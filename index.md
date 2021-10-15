@@ -289,7 +289,7 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
 
   <li>How might this affect members of your family or your friends?</li>
   <p>The home environment network for friends and family members are mostly susceptible to malware, phishing, and ransomware, and thus it would be prudent to advise friends and family members on the technique, and software/hardware options that can help to alleviate the potential risks.</p>
-  </uL>
+  </ul>
   
   <h2>References</h2>
   <ul>
