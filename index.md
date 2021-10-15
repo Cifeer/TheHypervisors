@@ -290,7 +290,7 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
   <li>How might this affect members of your family or your friends?</li>
   <p>The home environment network for friends and family members are mostly susceptible to malware, phishing, and ransomware, and thus it would be prudent to advise friends and family members on the technique, and software/hardware options that can help to alleviate the potential risks.</p>
   </uL>
-
+  
   <h2>References</h2>
   <ul>
   <li>Amazon Web Service 2021, AWS Shield, Amazon, viewed 13 October 2021, <a href="https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc">https://aws.amazon.com/shield/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc</a>.</li>
@@ -313,8 +313,32 @@ I found this job would be perfect for me to work at as it focuses on my 2 favour
   <li>Unisys n.d., Cyber attacks - what you need to know, Unisys, viewed 13 October 2021, <a href="https://www.unisys.com/glossary/cyber-attack/">https://www.unisys.com/glossary/cyber-attack/</a>.</li>
   <li>Whitehead, M 2020, What is the future of cybersecurity?, Trustwave, viewed 13 October 2021, <a href="https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/">https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/what-is-the-future-of-cybersecurity/</a>.</li>
   </ul>
-
-
+<h2>Raspberry Pis and SBCs</h2>
+  <ul>
+    <h3>What Does it do?</h3>
+    <p>Raspberry pis and arduinos are not exactly the same thing; both share differences.
+An arduino is a small microcontroller motherboard, it's a simple computer for running a single program at a time repeatedly. An Arduino would be good for simple tasks like opening and closing a door, turning a light on or off or even make them read the temperature rather than publishing the weather to a social site online.<br>
+On the other hand a Raspberry pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs. Overall a raspberry pi is a much more complex board than a arduino so they have the ability to run multiple programs at once and also can complete more complex tasks, Because a raspberry pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a raspberry pi.
+</p>
+    <li>What is the state of the art of this new technology?</li>
+    
+    <p>In terms of single board micro computers both the arduino and the raspberry don't come close in terms to straight power compared to other more expensive SBCs, However the Raspberry pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of as low as $75 AUD is incredibly good.</p>
+    
+    <li>What can be done now?</li>
+    
+    <p>SBCs like arduinos and raspberry pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games.</p>
+    
+    <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
+    
+    <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board.Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
+  </ul>
+  
+  <h3><What is the likely impact?/h3>
+    <ul>
+    
+      <li></li>
+    
+    </ul>
 <br>
   <h1><b>Project Idea</b></h1>
   <h2>Overview</h2> <p>
