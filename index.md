@@ -321,15 +321,10 @@ An arduino is a small microcontroller motherboard, it's a simple computer for ru
 On the other hand a Raspberry pi is pretty much a credit card sized general purpose computer complete with a full IO like usbs, ethernet and display outputs. Overall a raspberry pi is a much more complex board than a arduino so they have the ability to run multiple programs at once and also can complete more complex tasks, Because a raspberry pi is a full fledged PC it can run and complete intense calculations you could even mine bitcoin if you wanted!, you can set up an OS like linux on a raspberry pi.
 </p>
     <li>What is the state of the art of this new technology?</li>
-    
     <p>In terms of single board micro computers both the arduino and the raspberry don't come close in terms to straight power compared to other more expensive SBCs, However the Raspberry pi 4 is still one of the best board you can get for normal consumers for the performance you get at the price of as low as $75 AUD is incredibly good.</p>
-    
     <li>What can be done now?</li>
-    
     <p>SBCs like arduinos and raspberry pis can be used in many different ways today, the most common uses of these boards are; learning how to program and work with robotics, home automation, running NAS drives, perform basic computer task like web browsing, word processing and also create emulation stations like Retropie to run old games.</p>
-    
     <li>What is likely to be able to do be done soon (say in the next 3 years)?</li>
-    
     <p>SBCs have potentials for future with the ever growing and more powerful hardware components that the industry are projecting to be producing SBCs within the next few years could become even more power efficient than they already are, support higher powered non arm processors like a ryzen cpu from AMD or even support a apu with decent graphics or even a dedicated gpu chip on the board.Although most SBCs are already tiny companies are already trying to make them smaller.  </p>
   </ul>
   
